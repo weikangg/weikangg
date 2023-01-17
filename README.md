@@ -5,11 +5,11 @@ My name is Wei Kang and I am a Year 2 Business Analytics & Computer Science Stud
 🔭 I’m currently working on full stack software development projects
 
 ### ❄️ Notable Projects:
-[SimpliPark](https://github.com/weikangg/SimpliPark): NTU TechFest 2023 (Making Parking easier for all)
+- [SimpliPark](https://github.com/weikangg/SimpliPark): NTU TechFest 2023 (Making Parking easier for all)
 
-[NLP-WebScraper](https://github.com/weikangg/NLP-Webscraper): Web Scraping Information on other Companies
+- [NLP-WebScraper](https://github.com/weikangg/NLP-Webscraper): Web Scraping Information on other Companies
 
-[MyHealth](https://github.com/weikangg/MyHealth): Predicting risk of Heart Disease
+- [MyHealth](https://github.com/weikangg/MyHealth): Predicting risk of Heart Disease
 
 ### 🌱 Notable Coursework
 - SC1007 Data Structures & Algorithms
