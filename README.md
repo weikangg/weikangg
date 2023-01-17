@@ -13,6 +13,7 @@ My name is Wei Kang and I am a Year 2 Business Analytics & Computer Science Stud
 
 ### 🌱 Notable Coursework
 - SC1007 Data Structures & Algorithms
+- SC2001 Algorithm Design & Analysis
 - SC2002 Object Oriented Design & Programming
 - SC2006 Software Engineering
 - BC2402 Designing & Developing Databases
