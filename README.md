@@ -4,7 +4,7 @@ My name is Wei Kang and I am a Year 2 Business Analytics & Computer Science Stud
 
 🔭 I’m currently working on full stack software development projects. 
 
-💻 [Personal Website](https://weikangg.github.io/)
+💻 [My Site](https://weikangg.github.io/)
 
 ### ❄️ Notable Projects:
 - [SimpliPark](https://github.com/weikangg/SimpliPark): NTU TechFest 2023 Finalist (Making Parking easier for all)
