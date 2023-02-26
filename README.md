@@ -9,9 +9,9 @@ My name is Wei Kang and I am a Year 2 Business Analytics & Computer Science Stud
 ### ❄️ Notable Projects:
 - [SimpliPark](https://github.com/weikangg/SimpliPark): NTU TechFest 2023 **Finalist** (Making Parking easier for all)
 
-- [NLP-WebScraper](https://github.com/weikangg/NLP-Webscraper): Web Scraping Information on other Companies
+- [Jiraji](https://github.com/weikangg/iNTUition-v9.0): Simplifying project management for all
 
-- [MyHealth](https://github.com/weikangg/MyHealth): Predicting risk of Heart Disease
+- [NLP-WebScraper](https://github.com/weikangg/NLP-Webscraper): Web Scraping Information on other Companies
 
 - [CodePal](https://github.com/weikangg/CodePal): ChatGPT for Code. 
 
