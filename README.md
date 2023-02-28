@@ -9,13 +9,13 @@
   
 </div>
 
-- 🔭 I’m currently working on full stack software development projects. **
+- 🔭 I’m currently working on full stack software development projects.
 
 - 🌱 I’m currently learning **React.js, Express.js, MongoDB, node.js and Django.**
 
 - 👯 I’m looking to join some **Hackathons.**
 
-- 💻 My website: [My Site](https://weikangg.github.io/)
+- 💻 Website: [Wei Kang's site](https://weikangg.github.io/)
 
 - 📫 How to reach me: **wchong036@e.ntu.edu.sg**
 
