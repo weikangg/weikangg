@@ -45,7 +45,7 @@
   <h3>Frontend</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,materialui" />
     </a>
   </p>
   <h3>Backend</h3>
@@ -63,7 +63,7 @@
   <br />
 </div>
 
-<h2 align="center">  💻 GitHub Stats:</h2>
+<h2 align="center">  💻 GitHub & Leetcode Stats:</h2>
 <br />
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=weikangg&theme=react&show_icons=true&include_all_commits=true" />
