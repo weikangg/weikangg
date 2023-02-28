@@ -57,7 +57,7 @@
   <h3>Software (Misc.)</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,python,git,selenium,c++" />
+      <img src="https://skillicons.dev/icons?i=c,python,git,selenium,cpp" />
     </a>
   </p>
   <br />
