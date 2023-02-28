@@ -51,7 +51,7 @@
   <h3>Backend</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,firebase,mysql,java" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,sqlite,firebase,mysql,java" />
     </a>
   </p>
   <h3>Software (Misc.)</h3>
