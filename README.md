@@ -22,6 +22,8 @@
 - ⚡ What I like to do: **Code, play games and drink coffee ☕️.**
 
 ### ❄️ Notable Projects:
+- [PropertyIQ](https://github.com/weikangg/PropertyIQ): Promoting Information Transparency in the Singapore Rental Market
+
 - [SimpliPark](https://github.com/weikangg/SimpliPark): NTU TechFest 2023 **Finalist** (Making Parking easier for all)
 
 - [Jiraji](https://github.com/weikangg/iNTUition-v9.0): iNTUition v9.0 (Simplifying project management for students)
