@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wei Kang.</h1>
-<h3 align="center">I am a Year 2 Business Analytics & Computer Science Student studying at Nanyang Technological University!</h3>
+<h3 align="center">I am a Penultimate Business Analytics & Computer Science Student studying at Nanyang Technological University!</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chong-wei-kang/)
