@@ -22,6 +22,8 @@
 - ⚡ What I like to do: **Code, play games and drink coffee ☕️.**
 
 ### ❄️ Notable Projects:
+= [Ascendo](https://github.com/weikangg/Ascendo): DSTA Brain Hack 2023 **Finalist** (Making Work-Life A Winning Game)
+
 - [PropertyIQ](https://github.com/weikangg/PropertyIQ): Promoting Information Transparency in the Singapore Rental Market
 
 - [SimpliPark](https://github.com/weikangg/SimpliPark): NTU TechFest 2023 **Finalist** (Making Parking easier for all)
@@ -34,9 +36,11 @@
 - SC1007 Data Structures & Algorithms
 - SC2001 Algorithm Design & Analysis
 - SC2002 Object Oriented Design & Programming
+- SC2005 Operating Systems
 - SC2006 Software Engineering
+- SC2008 Computer Networks
+- SC3000 Artificial Intelligence
 - BC2402 Designing & Developing Databases
-- BC2406 Analytics I
 - BC2407 Analytics II
 
 <br />
@@ -53,7 +57,7 @@
   <h3>Backend</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,sqlite,firebase,mysql,java" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,sqlite,firebase,mysql,java,aws,dynamodb," />
     </a>
   </p>
   <h3>Software (Misc.)</h3>
