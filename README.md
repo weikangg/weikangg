@@ -57,7 +57,7 @@
   <h3>Backend</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,sqlite,firebase,mysql,java," />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,sqlite,firebase,mysql," />
     </a>
   </p>
   <h3>Cloud Technologies</h3>
@@ -69,7 +69,7 @@
   <h3>Software (Misc.)</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,python,git,selenium,cpp" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,git,selenium,java" />
     </a>
   </p>
   <br />
