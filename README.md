@@ -55,7 +55,7 @@
   <h3>Frontend</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,materialui, nextjs" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,materialui,nextjs" />
     </a>
   </p>
   <h3>Backend</h3>
