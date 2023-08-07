@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on full-stack software development projects.
 
-- 🌱 I’m currently learning **Next.js, Docker.**
+- 🌱 I’m currently learning **Next.js, Docker,** and many other technologies.
 
 - 👯 I’m looking to join some **Hackathons.**
 
@@ -22,19 +22,17 @@
 - ⚡ What I like to do: **Code, play games and drink coffee ☕️.**
 
 ### ❄️ Notable Projects:
-- [Summaize]:
+- [CommerceBay](https://commercebay.onrender.com/): E-Commerce Application Side Project (Navigating the Future of E-Commerce) 
 
-- [CommerceBay]: 
+- [Summaize](https://summaize-weikangg.vercel.app/): MongoDB Atlas Madness 2023 Hackathon (Effortless Learning, Instant Notes)
 
-- [Ascendo](https://github.com/weikangg/Ascendo): DSTA Brain Hack 2023 **Finalist** (Making Work-Life A Winning Game)
+- [Ascendo](https://github.com/weikangg/Ascendo): DSTA Brain Hack 2023 Hackathon **Finalist** (Making Work-Life A Winning Game)
 
-- [PropertyIQ](https://github.com/weikangg/PropertyIQ): Promoting Information Transparency in the Singapore Rental Market
+- [PropertyIQ](https://github.com/weikangg/PropertyIQ): SC2006 Software Engineering Project (Promoting Information Transparency in the Singapore Rental Market)
 
-- [SimpliPark](https://github.com/weikangg/SimpliPark): NTU TechFest 2023 **Finalist** (Making Parking easier for all)
+- [SimpliPark](https://github.com/weikangg/SimpliPark): NTU TechFest 2023 Hackathon**Finalist** (Making Parking easier for all)
 
 - [Jiraji](https://github.com/weikangg/iNTUition-v9.0): iNTUition v9.0 (Simplifying project management for students)
-
-- [NLP-WebScraper](https://github.com/weikangg/NLP-Webscraper): Web Scraping Information on other Companies
 
 ### 🌱 Notable Coursework
 - SC1007 Data Structures & Algorithms
