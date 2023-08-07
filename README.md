@@ -9,9 +9,9 @@
   
 </div>
 
-- 🔭 I’m currently working on full stack software development projects.
+- 🔭 I’m currently working on full-stack software development projects.
 
-- 🌱 I’m currently learning **React.js, Express.js, MongoDB, node.js and Django.**
+- 🌱 I’m currently learning **Next.js, Docker.**
 
 - 👯 I’m looking to join some **Hackathons.**
 
@@ -22,6 +22,10 @@
 - ⚡ What I like to do: **Code, play games and drink coffee ☕️.**
 
 ### ❄️ Notable Projects:
+- [Summaize]:
+
+- [CommerceBay]: 
+
 - [Ascendo](https://github.com/weikangg/Ascendo): DSTA Brain Hack 2023 **Finalist** (Making Work-Life A Winning Game)
 
 - [PropertyIQ](https://github.com/weikangg/PropertyIQ): Promoting Information Transparency in the Singapore Rental Market
