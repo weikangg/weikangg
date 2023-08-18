@@ -32,7 +32,7 @@
 
 - [SimpliPark](https://github.com/weikangg/SimpliPark): NTU TechFest 2023 Hackathon **Finalist** (Making Parking easier for all)
 
-- [Jiraji](https://github.com/weikangg/iNTUition-v9.0): iNTUition v9.0 (Simplifying project management for students)
+- [Jiraji](https://github.com/weikangg/iNTUition-v9.0): iNTUition v9.0 2023 Hackathon (Simplifying project management for students)
 
 ### 🌱 Notable Coursework
 - SC1007 Data Structures & Algorithms
