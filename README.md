@@ -30,7 +30,7 @@
 
 - [PropertyIQ](https://github.com/weikangg/PropertyIQ): SC2006 Software Engineering Project (Promoting Information Transparency in the Singapore Rental Market)
 
-- [SimpliPark](https://github.com/weikangg/SimpliPark): NTU TechFest 2023 Hackathon**Finalist** (Making Parking easier for all)
+- [SimpliPark](https://github.com/weikangg/SimpliPark): NTU TechFest 2023 Hackathon **Finalist** (Making Parking easier for all)
 
 - [Jiraji](https://github.com/weikangg/iNTUition-v9.0): iNTUition v9.0 (Simplifying project management for students)
 
