@@ -41,9 +41,8 @@
 - SC2005 Operating Systems
 - SC2006 Software Engineering
 - SC2008 Computer Networks
-- SC3000 Artificial Intelligence
 - BC2402 Designing & Developing Databases
-- BC2407 Analytics II
+- CS454  Distributed Systems (UWaterloo)
 
 <br />
 
