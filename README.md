@@ -22,7 +22,7 @@
 - ⚡ What I like to do: **Code, play games and drink coffee ☕️.**
 
 ### ❄️ Notable Projects:
-- [LastCallSG](https://github.com/Yuandjom/LastCallSG): Open Government Products Build For Good Environment 2024 Hackathon (Reducing Food Waste For Online Grocers)
+- [LastCallSG](https://github.com/Yuandjom/LastCallSG): [Open Government Products Build For Good Environment 2024 Hackathon](https://www.build.gov.sg/lastcallsg/) (Reducing Food Waste For Online Grocers)
 
 - [Summaize](https://summaize-weikangg.vercel.app/): MongoDB Atlas Madness 2023 Hackathon (Effortless Learning, Instant Notes)
 
