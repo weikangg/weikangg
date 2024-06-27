@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wei Kang.</h1>
-<h3 align="center">I am a Penultimate Business Analytics & Computer Science Student studying at Nanyang Technological University!</h3>
+<h3 align="center">I am a Final Year Computer Science & Business Analytics  Student studying at Nanyang Technological University!</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chong-wei-kang/)
@@ -22,7 +22,7 @@
 - ⚡ What I like to do: **Code, play games and drink coffee ☕️.**
 
 ### ❄️ Notable Projects:
-- [CommerceBay](https://commercebay.onrender.com/): E-Commerce Application Side Project (Navigating the Future of E-Commerce) 
+- [LastCallSG](https://github.com/Yuandjom/LastCallSG): Open Government Products Build For Good Environment 2024 Hackathon (Reducing Food Waste For Online Grocers)
 
 - [Summaize](https://summaize-weikangg.vercel.app/): MongoDB Atlas Madness 2023 Hackathon (Effortless Learning, Instant Notes)
 
@@ -32,17 +32,15 @@
 
 - [SimpliPark](https://github.com/weikangg/SimpliPark): NTU TechFest 2023 Hackathon **Finalist** (Making Parking easier for all)
 
-- [Jiraji](https://github.com/weikangg/iNTUition-v9.0): iNTUition v9.0 2023 Hackathon (Simplifying project management for students)
-
 ### 🌱 Notable Coursework
 - SC1007 Data Structures & Algorithms
 - SC2001 Algorithm Design & Analysis
 - SC2002 Object Oriented Design & Programming
 - SC2005 Operating Systems
 - SC2006 Software Engineering
-- SC2008 Computer Networks
 - BC2402 Designing & Developing Databases
 - CS454  Distributed Systems (UWaterloo)
+- ECE416 Advanced Computer Networks (UWaterloo)
 
 <br />
 
